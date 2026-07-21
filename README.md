@@ -35,7 +35,7 @@ El modelo base en zero-shot presenta un sesgo severo hacia la clase `spam` (resp
 └── .gitignore
 ```
 
-> El modelo entrenado (`flan_t5_spam_finetuned/`) se genera al ejecutar el notebook y **no** se sube al repositorio (supera el límite de 50 MB de las normas de entrega). Tampoco se incluyen archivos del dataset: el notebook lo descarga con código. Contenido de `.gitignore`:
+> El modelo entrenado (`flan_t5_spam_finetuned/`) se genera al ejecutar el notebook y **no** se sube al repositorio . Tampoco se incluyen archivos del dataset: el notebook lo descarga con código. Contenido de `.gitignore`:
 >
 > ```
 > flan_t5_spam_finetuned/
@@ -81,13 +81,10 @@ La sección 8 del notebook es adicional: demostración de inferencia en vivo con
 
 | Integrante | Rol |
 |---|---|
-| [Nombre 1] | Paper, problema y fundamentos |
-| [Nombre 2] | Dataset y análisis exploratorio |
-| [Nombre 3] | Modelo base zero-shot |
-| [Nombre 4] | Fine-tuning del modelo |
-| [Nombre 5] | Evaluación y comparación |
-| [Nombre 6] | Integración, análisis crítico, informe y GitHub |
+| Arianna Faustos | Paper, problema y fundamentos |
+| Ronny Oswaldo Guamán | Dataset y análisis exploratorio |
+| Erick Cabrera | Modelo base zero-shot |
+| Carlos Andrés Anchundia Toala | Fine-tuning del modelo |
+| Jair jander loor Holguín | Evaluación y comparación |
+| Fernando Baque | Integración, análisis crítico, informe y GitHub |
 
-## Uso de IA
-
-El uso de herramientas de IA en este proyecto se declara en [`DECLARACION_USO_IA.md`](DECLARACION_USO_IA.md) y en el informe PDF.
