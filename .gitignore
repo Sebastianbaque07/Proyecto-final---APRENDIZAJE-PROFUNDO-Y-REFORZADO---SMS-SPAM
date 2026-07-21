@@ -1,0 +1,4 @@
+flan_t5_spam_finetuned/
+*.bin
+*.safetensors
+.ipynb_checkpoints/
