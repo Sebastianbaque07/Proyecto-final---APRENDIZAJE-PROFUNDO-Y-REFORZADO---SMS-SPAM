@@ -1,5 +1,7 @@
 # Detección de mensajes SMS spam mediante fine-tuning de FLAN-T5-small
 
+#Link colab: https://colab.research.google.com/drive/1siCXW3vGLoFc_1LjSl8AhGyV1tSM3kEg?usp=sharing
+
 Proyecto de fin de parcial — Segundo Parcial · **Redes Neuronales y Aprendizaje Profundo**
 
 Adaptación de un modelo pre-entrenado (`google/flan-t5-small`) al problema de clasificación de mensajes SMS como **ham** (legítimo) o **spam**, comparando cuantitativamente el modelo base evaluado en *zero-shot* contra el modelo con *full fine-tuning*.
